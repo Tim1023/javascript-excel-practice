@@ -1,4 +1,7 @@
 # javascript-excel-practice
+
+**Practice showcase https://tim1023.github.io/javascript-excel-practice/**
+
 Javascript + HTML + Jquery ONLY, no other library.
 
 
